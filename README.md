@@ -1,9 +1,7 @@
 # Binary to Decimal Converter
 Idea from [here](https://github.com/florinpop17/app-ideas)
 
-## Live Demo
-
-https://YOURUSERNAME.github.io/binary-to-decimal-converter
+**Live Demo**: [here](https://YOURUSERNAME.github.io/binary-to-decimal-converter)
 
 
 **Tier**: 1-Beginner
