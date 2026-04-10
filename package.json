@@ -2,7 +2,7 @@
   "name": "bin2dec",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://swamwaiyan.github.io/binary-to-decimal-converter",
+  "homepage": "https://SwamWaiYan.github.io/binary-to-decimal-converter",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
